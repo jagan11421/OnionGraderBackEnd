@@ -1,0 +1,16 @@
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Model files and training output
+*.pt
+models/
+runs/
+
+# Logs
+*.log
